@@ -1,8 +1,3 @@
-
-int main()
-{
-cout<<"welcome to c++/n";
-
-system("pause");
- return0;
+int main() {
+return 40 + 2;
 }
