@@ -1,6 +1,4 @@
 
-#include <iostream>;
-using namespacestd;
 int main()
 {
 cout<<"welcome to c++/n";
