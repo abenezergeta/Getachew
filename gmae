@@ -1,0 +1,11 @@
+
+// my first program in C++
+#include <iostream>;
+using namespacestd;
+int main()
+{
+cout<<"welcome to c++/n";
+
+system("pause");
+ return0;
+}
